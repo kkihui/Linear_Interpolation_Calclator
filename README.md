@@ -1,4 +1,4 @@
-# ✖➕Linear_Interpolation_Calculator➕✖
+# ➕Linear_Interpolation_Calculator➕
 
 Linear Interpolation을 쉽게하실 수 있도록 만든 계산기입니다.<br>
 Linear Interpolatin에 어느정도 숙달 되신 분들은 매번 계산기를 두드리기 귀찮으실텐데, 저도 그랬던 기억이 있어서 만들어봤습니다. <br>
