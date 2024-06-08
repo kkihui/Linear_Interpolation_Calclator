@@ -13,7 +13,7 @@ or <br><br>
 
 # 🔵사용방법🔵 <br>
 ### 1. Known Property 입력
-### 2. Table에서 찾아서 그에 해당하는 Unkown Property 입력
+### 2. Table에서 찾아서 그에 해당하는 Unknown Property 입력
 ### 3. 계산하기 클릭
 ### 4. 그래프 보고 싶으면 그래프 보기 클릭
 ![p_1](https://github.com/kkihui/Linear_Interpolation_Calculator/assets/121797755/6be6eaaf-dabc-4396-b731-1aee375e4f75)
